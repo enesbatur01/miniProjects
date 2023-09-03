@@ -17,7 +17,7 @@ Project: Bilet Rezervasyon ve Bilet Fiyatı Hesaplama Uygulaması
                   Kullanıcıdan alınan değerler geçerli (mesafe ve yaş değerleri pozitif sayı, yolculuk tipi ise 1 veya 2) olmalıdır.
                   Aksi halde kullanıcıya "Hatalı Veri Girdiniz !" şeklinde bir uyarı verilmelidir.
 
-    3-Fiyat hesaplama kuralları:
+    3-Fiayat hesaplama kurlları:
        -Mesafe başına ücret:
                   Tek yön: 1 Lira / km       Çift Yön(Gidiş-Dönüş): 2 Lira/km
        -Tekli Koltuk ücreti:
